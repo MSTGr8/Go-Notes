@@ -12,4 +12,4 @@ Just go to site [by clicking here](https://mstgr8.github.io).
 - a customisation feature
 - read out loud feature
 # HOPE YOU LIKE IT
-#### creator: @MSTgr8
+#### creator: @MSTGr8
